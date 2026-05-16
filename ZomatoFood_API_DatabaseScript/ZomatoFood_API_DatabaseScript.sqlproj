@@ -60,5 +60,6 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="SqlScriptFiles\HotelmanagementDatabaseScript.sql" />
+    <Build Include="SqlScriptFiles\MidlandDatabaseScript.sql" />
   </ItemGroup>
 </Project>
